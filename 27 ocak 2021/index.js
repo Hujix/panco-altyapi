@@ -27,7 +27,7 @@ const { GiveawaysManager } = require('discord-giveaways');
 
 //////////////////////////////////önemliler///////////////////////////////
 
-const tbl = new TBL("tbl token", client)
+const tbl = new TBL("tbl token", client) //https://discord.gg/eJSaS2QrKv
 client.giveawaysManager = new GiveawaysManager(client, {
   storage: "./config/giveaways.json",
   updateCountdownEvery: 3000,
