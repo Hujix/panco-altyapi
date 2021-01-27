@@ -1,6 +1,6 @@
 # PANCO ALTYAPI BY sallamadım#9134
 
-## Merhabalar bu altyapı 2020 aralıktan beri yapılıp, 27 ocak 2021 den beri open source olarak paylaşılmaktadır.
+## Merhabalar bu altyapı 2020'den beri yapılıp, 27 ocak 2021 den beri open source olarak paylaşılmaktadır.
 
 ### Kurulum;
 
