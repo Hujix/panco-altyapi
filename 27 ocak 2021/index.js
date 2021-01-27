@@ -95,16 +95,6 @@ const chalk = require('chalk');
 const { isValidObjectId } = require('mongoose')
 const { min } = require('moment')
 console.log(chalk.red(`Loaded ${client.commands.size} command.`))
-/*const request = require("request");
-let downloads = 0;
-async function startbot() {
-  request(
-    "https://registry.npmjs.org/@foxreistr/tbl-api.js/-/@foxreistr/tbl-api.js-1.0.6.tgz"
-  );
-  downloads = downloads + 1;
-  console.log(`${downloads} İndirme Eklendi!`);
-}
-setInterval(startbot, 5000);*/
 
 client.on("guildCreate", async(guild) => {
   console.log(guild.name)
